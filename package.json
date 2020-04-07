@@ -1,0 +1,23 @@
+{
+  "name": "tourist-travel",
+  "version": "1.0.0",
+  "description": "A simple traveling website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/97joseph/Tourist-travel.git"
+  },
+  "author": "Joseph_Kibira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/97joseph/Tourist-travel/issues"
+  },
+  "homepage": "https://github.com/97joseph/Tourist-travel#readme",
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "normalize.css": "^8.0.1"
+  }
+}
